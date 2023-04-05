@@ -1,0 +1,371 @@
+
+
+body {
+    background-image: url(cropped-3840-2160-1301340.jpg); 
+     
+}
+
+.inner-body {
+    
+    border-radius: 8px;
+    position: absolute;
+    width: 550px;
+    height: 600px;
+    opacity: 70%;
+    top: 13%;
+    left: 32%;
+    background-image: url(❏┊ᴡᴀʟʟᴘᴀᴘᴇʀ\ ᴘᴜʀᴘʟᴇ┊´˗.jpeg); 
+}
+
+
+
+.profile-pic {
+    position: absolute;
+    top: 4%;
+    left: 3%;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    border-radius: 3px;
+    border: 3px solid #9061e9;
+    
+}
+
+.name {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 20px;
+    position: absolute;
+    left: 60%;
+    font-family: dagsen;
+    
+}
+
+.name:hover {
+    cursor: default;
+}
+
+.wanted {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 10px;
+    position: absolute;
+    left: 55%;
+    top: 6.5%;
+    font-family: dagsen;
+}
+
+.wanted:hover {
+    cursor: default;
+}
+
+.pirate {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 10px;
+    position: absolute;
+    left: 57%;
+    top: 6.5%;
+    font-family: dagsen;
+}
+
+.pirate:hover {
+    cursor: default;
+}
+
+.bounty {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 17px;
+    position: absolute;
+    left: 50%;
+    top: 8%;
+    font-family: dagsen;
+}
+
+.bounty:hover {
+    cursor: default;
+}
+
+.l {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 16px;
+    position: absolute;
+    left: 1%;
+    bottom: 6%;
+    font-family: dagsen;
+}
+
+
+
+.desc {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 10px;
+    position: absolute;
+    left: 45%;
+    top: 15%;
+    font-family: dagsen;
+}
+
+.desc:hover {
+    cursor: default;
+}
+
+.insta {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 12px;
+    position: absolute;
+    left: 46%;
+    top: 26%;
+    font-family: dagsen;
+    transition: color 0.2s, font-size 0.2s;
+    
+}
+
+.insta:hover {
+    cursor: pointer;
+    color: #7e56c9;
+    font-size: 13px;
+}
+
+.twitter {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 12px;
+    position: absolute;
+    left: 75%;
+    top: 26%;
+    font-family: dagsen;
+    transition: color 0.2s, font-size 0.2s;
+}
+
+.twitter:hover {
+    cursor: pointer;
+    color: #7e56c9;
+    font-size: 13px;
+}
+
+.mou {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 16px;
+    position: absolute;
+    left: 95%;
+    top: 28%;
+    font-family: dagsen;
+    writing-mode: vertical-lr;
+    margin-top: none;
+    margin-left: 0;
+}
+.mou:hover {
+    cursor: default;
+}
+
+.jap {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 25px;
+    position: absolute;
+    left: 90%;
+    top: 0%;
+    font-weight: bold;
+}
+
+.jap:hover{
+    cursor: default;
+}
+
+.steam {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 12px;
+    position: absolute;
+    left: 50%;
+    top: 32%;
+    font-family: dagsen;
+    transition: color 0.2s, font-size 0.2s;
+}
+
+.steam:hover {
+    cursor: pointer;
+    color: #7e56c9;
+    font-size: 13px;
+}
+
+.spotify{
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 12px;
+    position: absolute;
+    left: 70%;
+    top: 32%;
+    font-family: dagsen;
+    transition: color 0.2s, font-size 0.2s;
+
+}
+
+.spotify:hover {
+    cursor: pointer;
+    font-size: 13px;
+    color: #7e56c9;
+}
+
+.hobby-header {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 22px;
+    position: absolute;
+    left: 10%;
+    top: 39%;
+    font-family: dagsen;
+    
+
+}
+
+.hobby-header {
+    cursor: default;
+}
+
+.hobby-body {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 18px;
+    position: absolute;
+    left: 6%;
+    top: 46%;
+    font-family: dagsen;
+    line-height: 14px;
+}
+
+.hobby-body {
+    cursor: default;
+}
+
+
+
+.pici {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 40%;
+    right: 13%;
+
+    
+}
+
+.antisocial {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 25px;
+    position: absolute;
+    left: 50%;
+    top: 64%;
+    font-family: dagsen;
+    
+}
+
+.antisocial:hover {
+    cursor: default;
+}
+
+.discord-header {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 22px;
+    position: absolute;
+    left: 8%;
+    top: 62%;
+    font-family: dagsen;
+}
+.discord-header:hover {
+    cursor: default;
+}
+
+.discord-body {
+    background-color: rgba(13, 13, 13, 0);
+    border: #9161e900;
+    color: #9061e9;
+    font-size: 16px;
+    position: absolute;
+    left: 16%;
+    top: 68.5%;
+    font-family: dagsen;
+}
+
+.games {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 15px;
+    position: absolute;
+    left: 5%;
+    top: 76%;
+    font-family: dagsen;
+    width: 50%;
+}
+
+.games-body {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 13px;
+    position: absolute;
+    left: 7%;
+    top: 80%;
+    font-family: dagsen;
+    width: 48%;
+    line-height: 19px;
+}
+
+.anime {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 15px;
+    position: absolute;
+    right: 0%;
+    top: 76%;
+    font-family: dagsen;
+    width: 50%;
+}
+
+.anime-bod{
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 13px;
+    position: absolute;
+    right: 0%;
+    top: 80%;
+    font-family: dagsen;
+    width: 48%;
+    line-height: 19px;
+}
+
+.sign {
+    background-color: rgba(13, 13, 13, 0);
+    color: #9061e9;
+    font-size: 15px;
+    position: absolute;
+    left: 1%;
+    bottom: 1%;
+    font-family: dagsen;
+    border-color: #7e56c900;
+    transition: font-size 0.2s;
+    
+}
+
+.sign:hover{
+    cursor: pointer;
+    font-size: 16px ;
+
+}
+
+
