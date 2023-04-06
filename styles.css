@@ -1,7 +1,7 @@
 
 @font-face {
     font-family: "dagsen";
-    src: url(Dagsen_Black.otf) format('opentypef'),
+    src: url(Dagsen_Black.otf) format('opentype'),
          url(Dagsen_Black.ttf) format('truetype');
 }
 
